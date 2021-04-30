@@ -1,0 +1,34 @@
+.tag {
+  font-family: monospace;
+}
+
+.type {
+  color: blue;
+}
+
+.value {
+  color: purple;
+}
+
+.pipe {
+  padding: 0 8px;
+  font-weight: bold;
+  color: gray;
+}
+
+.matrix {
+  border: solid 10px transparent;
+}
+
+.pass {
+  color: green;
+}
+
+.fail {
+  color: red;
+}
+
+summary {
+  cursor: pointer;
+  padding: 10px;
+}
